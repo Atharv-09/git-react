@@ -22,6 +22,10 @@ function ButtonDisplay() {
             <h2>{count}</h2>
             <button onClick={handleOnClickI}>Increase</button>
             <button onClick={handleOnClickD}>Decrease</button>
+            <div>
+                <h1>Hello Guys</h1>
+                <p>Welcome to my page</p>
+            </div>
         </>
     );
 }
